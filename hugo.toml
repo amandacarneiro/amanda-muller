@@ -82,20 +82,6 @@ icon = "fa-brands fa-medium fa-2x"
 weight = 5
 url = "https://acarneiro.medium.com/"
 
-[[params.social]]
-name = "Github"
-icon = "fa-brands fa-github fa-2x"
-weight = 1
-url = "https://github.com/amandacarneiro"
-
-[[params.social]]
-name = "RSS"
-icon = "fa-solid fa-rss fa-2x"
-weight = 6
-url = "https://amandamuller.netlify.app/about/"
-rel = "alternate"
-type = "application/rss+xml"
-
 [languages.en]
 languageName = ":uk:"
 
