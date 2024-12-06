@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Amanda Muller</title>
-    <link>http://localhost:1313/pt-br/authors/</link>
+    <link>https://amandamuller.netlify.app/pt-br/authors/</link>
     <description>Recent content in Authors on Amanda Muller</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amandamuller.netlify.app/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amanda Muller</title>
-      <link>http://localhost:1313/pt-br/authors/amanda-muller/</link>
+      <link>https://amandamuller.netlify.app/pt-br/authors/amanda-muller/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/authors/amanda-muller/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/authors/amanda-muller/</guid>
       <description></description>
     </item>
   </channel>

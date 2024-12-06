@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amanda Muller</title>
-    <link>http://localhost:1313/pt-br/tags/</link>
+    <link>https://amandamuller.netlify.app/pt-br/tags/</link>
     <description>Recent content in Tags on Amanda Muller</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amandamuller.netlify.app/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amelie</title>
-      <link>http://localhost:1313/pt-br/tags/amelie/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/amelie/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/amelie/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/amelie/</guid>
       <description></description>
     </item>
     <item>
       <title>Carta</title>
-      <link>http://localhost:1313/pt-br/tags/carta/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/carta/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/carta/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/carta/</guid>
       <description></description>
     </item>
     <item>
       <title>Série</title>
-      <link>http://localhost:1313/pt-br/tags/s%C3%A9rie/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/s%C3%A9rie/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/s%C3%A9rie/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/s%C3%A9rie/</guid>
       <description></description>
     </item>
     <item>
       <title>A11y</title>
-      <link>http://localhost:1313/pt-br/tags/a11y/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/a11y/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/a11y/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/a11y/</guid>
       <description></description>
     </item>
     <item>
       <title>Acessibilidade</title>
-      <link>http://localhost:1313/pt-br/tags/acessibilidade/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/acessibilidade/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/acessibilidade/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/acessibilidade/</guid>
       <description></description>
     </item>
     <item>
       <title>Diversidade</title>
-      <link>http://localhost:1313/pt-br/tags/diversidade/</link>
+      <link>https://amandamuller.netlify.app/pt-br/tags/diversidade/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/diversidade/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/tags/diversidade/</guid>
       <description></description>
     </item>
   </channel>

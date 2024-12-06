@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acessibilidade on Amanda Muller</title>
-    <link>http://localhost:1313/pt-br/tags/acessibilidade/</link>
+    <link>https://amandamuller.netlify.app/pt-br/tags/acessibilidade/</link>
     <description>Recent content in Acessibilidade on Amanda Muller</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/acessibilidade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amandamuller.netlify.app/pt-br/tags/acessibilidade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acessibilidade</title>
-      <link>http://localhost:1313/pt-br/posts/accessibility-what-is/</link>
+      <link>https://amandamuller.netlify.app/pt-br/posts/accessibility-what-is/</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/posts/accessibility-what-is/</guid>
+      <guid>https://amandamuller.netlify.app/pt-br/posts/accessibility-what-is/</guid>
       <description>&lt;h1 id=&#34;acessibilidade&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Acessibilidade&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#acessibilidade&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quando pensamos em acessibilidade, existem vários lugares de onde podemos começar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Podemos descobrir quais são os tipos de necessidades específicas, quais são as tecnologias assistivas já existentes, quais são as nomenclaturas corretas… Com tantas portas de entrada, hoje decidi começar pela sigla &lt;em&gt;A11y&lt;/em&gt;, que acho muito amigável e interessante. 😊&lt;/p&gt;&#xA;&lt;p&gt;“A11y” é uma abreviação do termo &lt;em&gt;acessibilidade&lt;/em&gt;, sendo que o número 11 representa as 11 letras entre a primeira e a última letra da palavra. É um termo utilizado para descrever a capacidade de produtos, serviços, tecnologias e locais de serem acessíveis e utilizáveis por todas as pessoas, independentemente de suas habilidades. A acessibilidade inclui a remoção de barreiras físicas, sensoriais e cognitivas para que as pessoas com deficiência possam participar plenamente da sociedade, além de garantir que todos possam acessar informações e serviços de maneira eficaz e eficiente.&lt;/p&gt;</description>
     </item>
   </channel>
