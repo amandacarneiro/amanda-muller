@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Amanda Muller</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Amanda Muller</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amelie</title>
+      <link>http://localhost:1313/tags/amelie/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/amelie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Carta</title>
+      <link>http://localhost:1313/tags/carta/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/carta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Série</title>
+      <link>http://localhost:1313/tags/s%C3%A9rie/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/s%C3%A9rie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A11y</title>
+      <link>http://localhost:1313/tags/a11y/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/a11y/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acessibilidade</title>
+      <link>http://localhost:1313/tags/acessibilidade/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acessibilidade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diversidade</title>
+      <link>http://localhost:1313/tags/diversidade/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/diversidade/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

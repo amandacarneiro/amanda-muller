@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Amanda Muller</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Amanda Muller</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carta para Amelie</title>
+      <link>http://localhost:1313/posts/carta-para-amelie/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/carta-para-amelie/</guid>
+      <description>&lt;h1 id=&#34;carta-para-amelie&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Carta para Amelie&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#carta-para-amelie&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Eu não sei o que você vai vai ser quando você crescer, mas eu sei que quero te ensinar a olhar o mundo sempre com curiosidade. Eu não sei quem você vai amar, mas eu sei quero te ensinar a buscar por um amor respeitoso, carinhoso e que sempre caminhe ao seu lado te ajudando a evoluir, esse amor vai ser o seu melhor amigo eventualmente, do mesmo jeito que seu pai é o meu. Eu não sei o que você vai escolher estudar, mas quero te ensinar a dar atenção e valor às coisas que você aprender. Eu não sei quantos idiomas você vai falar, mas sei que quero te ensinar a se virar e conseguir o que você quer onde você estiver.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acessibilidade</title>
+      <link>http://localhost:1313/posts/accessibility-what-is/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/accessibility-what-is/</guid>
+      <description>&lt;h1 id=&#34;acessibilidade&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Acessibilidade&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#acessibilidade&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Quando pensamos em acessibilidade, existem vários lugares de onde podemos começar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Podemos descobrir quais são os tipos de necessidades específicas, quais são as tecnologias assistivas já existentes, quais são as nomenclaturas corretas… Com tantas portas de entrada, hoje decidi começar pela sigla &lt;em&gt;A11y&lt;/em&gt;, que acho muito amigável e interessante. 😊&lt;/p&gt;&#xA;&lt;p&gt;“A11y” é uma abreviação do termo &lt;em&gt;acessibilidade&lt;/em&gt;, sendo que o número 11 representa as 11 letras entre a primeira e a última letra da palavra. É um termo utilizado para descrever a capacidade de produtos, serviços, tecnologias e locais de serem acessíveis e utilizáveis por todas as pessoas, independentemente de suas habilidades. A acessibilidade inclui a remoção de barreiras físicas, sensoriais e cognitivas para que as pessoas com deficiência possam participar plenamente da sociedade, além de garantir que todos possam acessar informações e serviços de maneira eficaz e eficiente.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
