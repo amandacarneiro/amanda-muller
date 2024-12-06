@@ -6,6 +6,42 @@
     <description>Recent content on amandamuller</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Letter to Amelie</title>
+      <link>http://localhost:1313/en/posts/carta-para-amelie/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/carta-para-amelie/</guid>
+      <description>&lt;h1 id=&#34;letter-to-amelie&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Letter to Amelie&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#letter-to-amelie&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;I don’t know what you’ll become when you grow up, but I do know I want to teach you to look at the world with endless curiosity. I don’t know who you’ll love, but I know I want to teach you to seek a love that is respectful, caring, and always walks by your side, helping you grow. That love will eventually become your best friend, just as your dad is mine. I don’t know what you’ll choose to study, but I want to teach you to value and pay attention to the things you learn. I don’t know how many languages you’ll speak, but I do know I want to teach you to adapt and achieve your goals wherever you are.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/en/posts/accessibility-what-is/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/accessibility-what-is/</guid>
+      <description>&lt;h1 id=&#34;accessibility&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Accessibility&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#accessibility&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;When we think about accessibility, there are many starting points.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We can explore specific needs, identify existing assistive technologies, learn the correct terminologies&amp;hellip; With so many entry points, I decided to start today with the term &lt;em&gt;A11y&lt;/em&gt;, which I find very friendly and interesting. 😊&lt;/p&gt;&#xA;&lt;p&gt;“A11y” is an abbreviation for the term &lt;em&gt;accessibility&lt;/em&gt;, with the number 11 representing the 11 letters between the first and last letters of the word. It’s used to describe the capacity of products, services, technologies, and places to be accessible and usable by everyone, regardless of their abilities. Accessibility involves removing physical, sensory, and cognitive barriers to allow people with disabilities to fully participate in society, ensuring everyone can access information and services effectively and efficiently. Accessibility is fundamental to fostering inclusion and ensuring equal rights and opportunities for all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;Amanda Muller is a software engineer with over 10 years of experience in web development and technical leadership. Specialized in digital accessibility, C#.NET, and system integrations, she blends technical expertise with a human-centered approach. An active leader in tech communities, Amanda advocates for diversity and inclusion while sharing insights on motherhood and accessibility. She excels at turning complex challenges into accessible and efficient solutions, helping to create a positive impact through technology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/contact/</guid>
+      <description>&lt;p&gt;Follow me on &lt;a href=&#34;https://www.instagram.com/amndmuller/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagem&lt;/a&gt; and &lt;a href=&#34;https://www.tiktok.com/@amndmuller&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TikTok&lt;/a&gt;.&#xA;Send me an &lt;a href=&#34;mailto:amandaeleomuller@gmail.com&#34; &gt;Email&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here yet&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

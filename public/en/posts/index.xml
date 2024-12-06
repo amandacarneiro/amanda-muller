@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on amandamuller</title>
+    <link>http://localhost:1313/en/posts/</link>
+    <description>Recent content in Posts on amandamuller</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/en/posts/accessibility-what-is/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/accessibility-what-is/</guid>
+      <description>&lt;h1 id=&#34;accessibility&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Accessibility&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#accessibility&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;When we think about accessibility, there are many starting points.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We can explore specific needs, identify existing assistive technologies, learn the correct terminologies&amp;hellip; With so many entry points, I decided to start today with the term &lt;em&gt;A11y&lt;/em&gt;, which I find very friendly and interesting. 😊&lt;/p&gt;&#xA;&lt;p&gt;“A11y” is an abbreviation for the term &lt;em&gt;accessibility&lt;/em&gt;, with the number 11 representing the 11 letters between the first and last letters of the word. It’s used to describe the capacity of products, services, technologies, and places to be accessible and usable by everyone, regardless of their abilities. Accessibility involves removing physical, sensory, and cognitive barriers to allow people with disabilities to fully participate in society, ensuring everyone can access information and services effectively and efficiently. Accessibility is fundamental to fostering inclusion and ensuring equal rights and opportunities for all.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
