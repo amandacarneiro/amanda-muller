@@ -1,8 +1,8 @@
 +++
 authors = ["Amanda Muller"]
-title = "Bolo de banana"
+title = "Banana cake"
 date = "2024-12-09"
-description = "Bolinho de banana com açúcar mascavo."
+description = "Banana cake with brown sugar"
 tags = [
     "cake",
     "banana",
