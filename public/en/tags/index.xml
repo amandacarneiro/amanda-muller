@@ -6,6 +6,49 @@
     <description>Recent content in Tags on amandamuller</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amelie</title>
+      <link>http://localhost:1313/en/tags/amelie/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/amelie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Letter</title>
+      <link>http://localhost:1313/en/tags/letter/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/letter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Series</title>
+      <link>http://localhost:1313/en/tags/series/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A11y</title>
+      <link>http://localhost:1313/en/tags/a11y/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/a11y/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Accessibility</title>
+      <link>http://localhost:1313/en/tags/accessibility/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diversity</title>
+      <link>http://localhost:1313/en/tags/diversity/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/diversity/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

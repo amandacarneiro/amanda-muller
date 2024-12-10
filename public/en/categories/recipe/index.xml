@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe on amandamuller</title>
+    <link>http://localhost:1313/en/categories/recipe/</link>
+    <description>Recent content in Recipe on amandamuller</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/categories/recipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolo de banana</title>
+      <link>http://localhost:1313/en/posts/bolo-de-banana/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/bolo-de-banana/</guid>
+      <description>&lt;h1 id=&#34;banana-cake&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Banana cake&lt;/strong&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#banana-cake&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;BANANA CAKE&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;03 eggs&lt;/li&gt;&#xA;&lt;li&gt;50 ml of oil&lt;/li&gt;&#xA;&lt;li&gt;100 g of brown sugar&lt;/li&gt;&#xA;&lt;li&gt;50 ml of water&lt;/li&gt;&#xA;&lt;li&gt;3 bananas&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Blend all ingredients in a blender.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;200 g of oat flour&lt;/li&gt;&#xA;&lt;li&gt;01 tablespoon of baking powder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Mix the dry ingredients with the blended mixture. Bake at 180°C (356°F) for 35 to 40 minutes.&lt;/p&gt;&#xA;&lt;p&gt;Topping:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;60 g of brown sugar&lt;/li&gt;&#xA;&lt;li&gt;1 tablespoon of cocoa powder&lt;/li&gt;&#xA;&lt;li&gt;2 tablespoons of water&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cook until it starts bubbling. Spread the topping over the warm cake, then let it cool before serving.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

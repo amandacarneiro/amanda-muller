@@ -17,9 +17,29 @@
   </url><url>
     <loc>http://localhost:1313/authors/amanda-muller/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/authors/amanda-muller/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/authors/amanda-muller/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/amelie/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/amelie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/tags/amelie/"
+                />
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
@@ -39,6 +59,16 @@
   </url><url>
     <loc>http://localhost:1313/posts/carta-para-amelie/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/carta-para-amelie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/posts/carta-para-amelie/"
+                />
   </url><url>
     <loc>http://localhost:1313/series/carta-para-amelie/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
@@ -61,6 +91,16 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/posts/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/s%C3%A9rie/</loc>
     <lastmod>2024-10-03T00:00:00+00:00</lastmod>
@@ -93,6 +133,16 @@
   </url><url>
     <loc>http://localhost:1313/tags/a11y/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/a11y/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/tags/a11y/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/acessibilidade/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
@@ -102,18 +152,68 @@
   </url><url>
     <loc>http://localhost:1313/posts/accessibility-what-is/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/accessibility-what-is/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/posts/accessibility-what-is/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/diversidade/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2023-04-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/personal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/categories/personal/"
+                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/about/"
+                />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/contact/"
+                />
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/projects/"
+                />
   </url>
 </urlset>
